@@ -1,6 +1,7 @@
  ##                                                             <h1 align="center"> . Hello 👋, I'm Akhil Kumar . </h1>
   ##                                                          <h1 align="center">⚡Coding | Creator | Innovator | Developer ⚡</h1>
-![code gif](https://github.com/user-attachments/assets/747c295f-c84f-4d58-a21a-a52adfc5e1f4)
+  ![gif1](https://github.com/user-attachments/assets/0dde22ab-25d6-412c-b4e2-c50aee0007c5)
+
 - I am a Coding Developer with HTML, CSS and JavaScript and to creating new Web Pages.
  
 - As a passionate about Writing the code that Solves the Human Problems.
@@ -16,7 +17,7 @@
 -  👨‍💻 All of my projects are available at
  https://github.com/Akhil28016?tab=repositories
 
-![223e6792880429 5e569ff84ebef](https://github.com/user-attachments/assets/cb765984-f2aa-49f2-adb3-56624316c53e)
+![gif2](https://github.com/user-attachments/assets/b4296899-d92c-42eb-bd36-898900af711d)
 
 <h3 align="center">A passionate on Software Developer</h3>
 

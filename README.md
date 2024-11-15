@@ -1,4 +1,4 @@
- ##                                                             <h1 align="center"> . Hello 👋, I'm Akhil Kumar . </h1>
+ ##                                                             <h1 align="center"> . Hello 👋, I'm Akhil . </h1>
   ##                                                          <h1 align="center">⚡Coding | Creator | Innovator | Developer ⚡</h1>
   ![gif1](https://github.com/user-attachments/assets/0dde22ab-25d6-412c-b4e2-c50aee0007c5)
 
